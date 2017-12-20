@@ -1,5 +1,5 @@
 # Diabetes-Predcition
-# This project is about whether the person will have diabetes or not on its onset, having some diagnostic measurements using clinical test
+# This project is about whether the person will have diabetes or not on its onset, with some diagnostic measurements using clinical test
 
 Data Source: Kaggle.com
 
